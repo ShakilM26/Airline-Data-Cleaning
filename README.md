@@ -10,3 +10,10 @@ punctuation, unwanted values in strings, converting to proper datatype.
 3. I have brought the outlier values into the range using the capping method.
 4. Converting the features or columns in the data to the proper format and proper data type.
 5. Fixing data accuracy and bringing it into structured format.
+
+
+## What I learned:
+1. Detecting outliers in different ways.
+2. Earlier I used to check the describe function only to see the outliers but in addition to this I detected the outliers using Z-score, IQR (Interquartile range) 
+
+
