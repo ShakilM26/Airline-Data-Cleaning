@@ -3,6 +3,9 @@ This project is only about data cleaning.
 In this airline related data cleaning project, Here I have done some other work including missing values in data, different symbols, 
 punctuation, unwanted values in strings, converting to proper datatype.
 
+![dataset-cover](https://user-images.githubusercontent.com/101876451/224567123-5ffba9b6-7d2e-4f67-a488-a31421f3e02a.jpg)
+
+
 ## Key responsibilities:
 
 1. Used regular expression, Bfill, Ffill, Median value to fill missing data or remove symbol, unwanted parts of a string.
