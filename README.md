@@ -38,7 +38,7 @@ Installed the required packages...
 ```
 
 ## Missing Values Visualization
-![missing value visualize](https://user-images.githubusercontent.com/101876451/224698305-a7ea2025-e66d-4188-8033-4fc37af15d9d.png)
+![heatmap11](https://user-images.githubusercontent.com/101876451/224700916-1748bb2d-13a3-4cc7-b389-95812d7a0290.png)
 
 
 
