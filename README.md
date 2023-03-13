@@ -20,8 +20,6 @@ In addition to working on missing values ​​in this data cleaning project, I 
 4. Converting the features or columns in the data to the proper format and proper data type.
 5. Fixing data accuracy and bringing it into structured format.
 
-![missing value visualize](https://user-images.githubusercontent.com/101876451/224696875-f5b38a98-77e8-4677-aa33-3d0d517d0997.png)
-
 
 ## What I learned:
 1. Detecting outliers in different ways.
@@ -38,6 +36,9 @@ Installed the required packages...
   pip install seaborn
   pip install word2number
 ```
+
+![missing value visualize](https://user-images.githubusercontent.com/101876451/224696875-f5b38a98-77e8-4677-aa33-3d0d517d0997.png)
+
 
 ## License
 
