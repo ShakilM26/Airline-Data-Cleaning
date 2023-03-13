@@ -37,6 +37,7 @@ Installed the required packages...
   pip install word2number
 ```
 
+## Missing Values Visualization
 ![missing value visualize](https://user-images.githubusercontent.com/101876451/224696875-f5b38a98-77e8-4677-aa33-3d0d517d0997.png)
 
 
