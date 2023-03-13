@@ -25,7 +25,8 @@ In addition to working on missing values ​​in this data cleaning project, I 
 1. Detecting outliers in different ways.
 2. Earlier I used to check the describe function only to see the outliers but in addition to this I detected the outliers using Z-score, IQR (Interquartile range).
 3. Replace outliers with quantile-based capping method. 
-## Installation
+
+## Package Installation 
 
 Installed the required packages... 
 
