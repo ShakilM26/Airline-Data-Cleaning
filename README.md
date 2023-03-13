@@ -43,28 +43,3 @@ Installed the required packages...
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Screenshots
-
-![App Screenshot](https://unsplash.com/photos/rWMIbqmOxrY)
-
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-![Logo](https://unsplash.com/photos/rWMIbqmOxrY)
-
