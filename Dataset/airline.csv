@@ -1,0 +1,415 @@
+Airline Route,Airline Name,City,Country,Flight No,Ticket Price,Flight Datetime,Delayed Minutes,Flight Distance (km),Number of Passengers
+New York-London,Delta,New York,USA,DL101,500,2023-03-01 12:45:00,0,5564,230
+Los Angeles-Tokyo,United,Los Angeles,USA,UA201,700,2023-03-02 18:30:00,15,9087,280
+Sydney-Hong Kong,Qantas,Sydney,Australia,QF202,800,2023-03-03 09:15:00,30,7361,215
+New York-Paris,Delta Air Lines,PaRis,France,DL301,700,2023-03-01 12:30:00,10,3630,185
+London-New York,Virgin Atlantic,LonDon,UK,VS302,800,2023-03-02 14:00:00,20,3450,170
+Sydney-Beijing,Qantas Airways,BeiJing,China,QF303,1000,2023-03-03 08:45:00,15,8800,195
+Dubai-Mumbai,Emirates,DubAI,India,EK304,500,2023-03-04 16:20:00,5,1200,150
+Los Angeles-Tokyo,Japan Airlines,ToKyo,Japan,JL305,900,2023-03-05 09:10:00,30,5450,190
+Paris-Toronto,Air France,torOntO,Canada,AF306,600,2023-03-06 18:00:00,35,5760,160
+Bangkok-Sydney,Thai Airways,sydneY,Australia,TG307,750,2023-03-07 10:45:00,25,4140,175
+London-Dubai,British Airways,dUbai,United Arab Emirates,BA308,1100,2023-03-08 15:30:00,40,5500,180
+New York-Beijing,American Airlines,BeiJing,China,AA309,1200,2023-03-09 20:15:00,50,7280,120
+Paris-Singapore,Singapore Airlines,siNgapore,Singapore,SQ310,950,2023-03-10 22:00:00,10,6630,116
+Paris-Rome,Air France,Paris,France,AF401,300,2023-03-04 06:00:00,0,1108,140
+Dubai-New Delhi,Emirates,Dubai,UAE,EK501,350,2023-03-05 14:20:00,0,2201,185
+Toronto-Vancouver,Air Canada,Toronto,Canada,AC601,250,2023-03-06 08:10:00,5,3351,160
+London-Singapore,British,London,UK,BA701,1000,2023-03-07 11:45:00,120,10851,320
+Munich-Athens,Lufthansa,Munich,Germany,LH801,400,2023-03-08 16:30:00,0,1616,135
+Amsterdam-Madrid,KLM,Amsterdam,Netherlands,KL901,200,2023-03-09 07:00:00,10,1514,120
+New York-San Francisco,American,New York,USA,AA1001,600,2023-03-10 10:25:00,10,4139,210
+New York-London,Delta Air Lines,New York,USA,DL101,500,2023-03-01 12:45:00,0,5564,230
+Los Angeles-Tokyo,United Airlines,Los Angeles,USA,UA201,700,2023-03-02 18:30:00,15,9087,280
+Sydney-Hong Kong,Qantas Airways,Sydney,Australia,QF202,800,2023-03-03 09:15:00,30,7361,215
+Paris-Rome,Air France,Paris,France,AF401,300,2023-03-04 06:00:00,0,1108,140
+Dubai-New Delhi,Emirates,Dubai,UAE,EK501,350,2023-03-05 14:20:00,5,2201,185
+Toronto-Vancouver,Air Canada,Toronto,Canada,AC601,250,2023-03-06 08:10:00,5,3351,160
+London-Singapore,British Airways,London,UK,BA701,1000,2023-03-07 11:45:00,120,10851,320
+Munich-Athens,Lufthansa,Munich,Germany,LH801,400,2023-03-08 16:30:00,15,1616,135
+Amsterdam-Madrid,KLM Royal Dutch Airlines,Amsterdam,Netherlands,KL901,200,2023-03-09 07:00:00,0,1514,120
+New York-San Francisco,American Airlines,New York,USA,AA1001,600,2023-03-10 10:25:00,10,4139,210
+Los Angeles-Paris,Air Tahiti Nui,Los Angeles,USA,TN101,900,2023-03-11 14:20:00,0,9082,270
+Singapore-Bangkok,Singapore Airlines,Singapore,Singapore,SQ201,150,2023-03-12 09:30:00,5,1417,110
+Tokyo-Seoul,All Nippon Airways,Tokyo,Japan,NH202,200,2023-03-13 13:45:00,5,1250,125
+Hong Kong-Shanghai,Cathay Pacific,Hong Kong,China,CX301,120,2023-03-14 11:10:00,5,1269,130
+Miami-Madrid,Iberia,Miami,USA,IB401,550,2023-03-15 16:15:00,35,6701,225
+New York-Toronto,WestJet,New York,USA,WS501,150,2023-03-16 07:20:00,10,551,90
+Paris-Dubai,Air Arabia,Paris,France,G9821,250,2023-03-17 20:05:00,50,5464,90
+Chicago-San Francisco,Frontier Airlines,Chicago,USA,F911,300,2023-03-18 12:00:00,7,2998,150
+London-Dublin,Ryanair,London,UK,FR601,80,2023-03-19 06:30:00,0,463,100
+Sydney-Melbourne,Virgin Australia,Sydney,Australia,VA701,100,2023-03-20 08:45:00,6,713,92
+Los Angeles-New York,JetBlue,Los Angeles,USA,B611,350,2023-03-21 17:00:00,5,3944,175
+Seoul-Hong Kong,Korean Air,Seoul,South Korea,KE901,200,2023-03-22 14:15:00,5,2579,150
+New York-Boston,Delta Air Lines,New York,USA,DL201,180,2023-03-23 08:00:00,8,306,80
+Rome-Barcelona,Vueling Airlines,Rome,Italy,VY401,150,2023-03-24 10:20:00,0,835,110
+London-Edinburgh,EasyJet,London,UK,U221,50,2023-03-25 06:15:00,2,534,85
+Hong Kong-Taipei,EVA Air,Hong Kong,China,BR101,100,2023-03-26 09:40:00,4,809,100
+New York-Los Angeles,American Airlines,New York,USA,AA1001,450,2023-03-27 12:35:00,20,3977,210
+Beijing-Tokyo,China Eastern Airlines,Beijing,China,MU201,250,2023-03-28 16:45:00,10,2119,170
+Dubai-London,Emirates,Dubai,UAE,EK501,350,2023-03-29 13:25:00,14,NaN,NaN
+New York-Los Angeles,United Airlines,New York,USA,UA101,400,2023-04-01 09:30:00,5,3977,Two hundred
+London-Paris,British Airways,London,UK,BA201,200,2023-04-02 12:00:00,10,344,One hundred and twenty
+Sydney-Brisbane,Qantas Airways,Sydney,Australia,QF301,150,2023-04-03 15:15:00,0,732,Ninety-five
+Dubai-Mumbai,Etihad Airways,Dubai,UAE,EY401,250,2023-04-04 08:45:00,20,1927,One hundred and eighty
+Toronto-Montreal,Porter Airlines,Toronto,Canada,PD501,100,2023-04-05 10:20:00,5,505,Fifty
+Tokyo-Beijing,Japan Airlines,Tokyo,Japan,JL701,300,2023-04-06 13:35:00,6,2074,Two hundred and ten
+Hong Kong-Singapore,SilkAir,Hong Kong,China,MI901,120,2023-04-07 17:00:00,15,2593,One hundred
+Los Angeles-San Francisco,Southwest Airlines,Los Angeles,USA,WN801,100,2023-04-08 11:45:00,0,542,Seventy-five
+Rome-Amsterdam,KLM Royal Dutch Airlines,Rome,Italy,KL401,200,2023-04-09 09:30:00,10,1508,One hundred and twenty-five
+Miami-Cancun,Aeromexico,Miami,USA,AM501,150,2023-04-10 06:00:00,9,268,Sixty-five
+New Delhi-Mumbai,IndiGo,New Delhi,India,EN201,120,2023-05-01 11:30:00,10,1148,One hundred and forty-five
+Barcelona-Madrid,Iberia,Barcelona,Spain,IB501,80,2023-05-02 08:00:00,0,505,Eighty-five
+Cape Town-Johannesburg,South African Airways,Cape Town,South Africa,SA701,200,2023-05-03 13:45:00,30,1273,Seventy
+Seoul-Tokyo,Korean Air,Seoul,South Korea,KE701,300,2023-05-04 15:15:00,15,1004,One hundred and fifty
+Paris-Rome,Air France,Paris,France,AF401,150,2023-05-05 16:30:00,15,1106,One hundred
+Beijing-Shanghai,China Eastern Airlines,Beijing,China,MU901,200,2023-05-06 07:45:00,8,1063,Fifty-five
+Melbourne-Perth,Virgin Australia,Melbourne,Australia,VA501,180,2023-05-07 09:00:00,9,2747,One hundred and sixty
+Houston-Dallas,American Airlines,Houston,USA,AA601,100,2023-05-08 11:15:00,5,387,Eighty
+Dublin-London,Aer Lingus,Dublin,Ireland,EI201,80,2023-05-09 14:00:00,10,462,Ninety-five
+Los Angeles-Las Vegas,Delta Air Lines,Los Angeles,USA,DL801,80,2023-05-10 16:30:00,0,368,Forty
+New York-Los Angeles,United Airlines!,New York,USA,UA101,400,2023-04-01 09:30:00,5,3977,200
+London-Paris,British Airways*,London,UK,BA201,200,2023-04-02 12:00:00,10,344,120
+Sydney-Brisbane,Qantas Airways (Australia),Sydney,Australia,QF301,150,2023-04-03 15:15:00,4,732,95
+Dubai-Mumbai,Etihad Airways!,Dubai,UAE,EY401,250,2023-04-04 08:45:00,20,1927,180
+Toronto-Montreal,Porter Airlines (Canada),Toronto,Canada,PD501,100,2023-04-05 10:20:00,5,505,70
+Tokyo-Beijing,Japan Airlines*,Tokyo,Japan,JL701,300,2023-04-06 13:35:00,15,2074,210
+Hong Kong-Singapore,SilkAir!,Hong Kong,China,MI901,120,2023-04-07 17:00:00,15,2593,100
+Los Angeles-San Francisco,Southwest Airlines*,Los Angeles,USA,WN801,80,2023-04-08 11:45:00,5,542,75
+Rome-Amsterdam,KLM Royal Dutch Airlines (Netherlands),Rome,Italy,KL401,200,2023-04-09 09:30:00,8,1508,125
+Miami-Cancun,Aeromexico!,Miami,USA,AM501,150,2023-04-10 06:00:00,4,268,65
+New York-Chicago,American Airlines (USA)*,New York,USA,AA101,300,2023-04-11 14:20:00,5,1255,150
+London-Madrid,Iberia Airlines (Spain),London,UK,IB201,250,2023-04-12 17:30:00,7,1429,110
+Los Angeles-Las Vegas,Delta Air Lines!,Los Angeles,USA,DL301,150,2023-04-13 20:45:00,8,435,70
+Sydney-Melbourne,Virgin Australia*,Sydney,Australia,VA401,200,2023-04-14 11:10:00,15,880,100
+Paris-Frankfurt,Air France (France),Paris,France,AF501,180,2023-04-15 14:40:00,15,545,80
+Dubai-Bangkok,Thai Airways International*,Dubai,UAE,TG701,350,2023-04-16 08:00:00,10,4290,220
+Miami-New York,JetBlue Airways (USA)!,Miami,USA,B6801,200,2023-04-17 12:35:00,20,1758,130
+Tokyo-Shanghai,All Nippon Airways (Japan)*,Tokyo,Japan,NH901,280,2023-04-18 16:15:00,8,1868,170
+Dublin-London,Ryanair (Ireland)!,Dublin,Ireland,FR201,80,2023-04-19 18:50:00,10,464,60
+Cape Town-Johannesburg,South African Airways (South Africa)*,Cape Town,South Africa,SA401,150,2023-04-20 21:25:00,15,1273,90
+Los Angeles-New York,American Airlines (USA)*,Los Angeles,USA,AA501,400,2023-04-21 09:30:00,9,3945,200
+Moscow-St. Petersburg,Aeroflot (Russia)!,Moscow,Russia,SU601,120,2023-04-22 12:00:00,8,635,70
+Bangkok-Phuket,Thai Smile Airways (Thailand)!,Bangkok,Thailand,WE701,100,2023-04-23 15:15:00,4,867,75
+New York-Chicago,American Airlines (USA),New York,USA,AA101,300,2023-04-11 14:20:00,20,1255,150
+London-Madrid,Iberia Airlines (Spain),London,UK,IB201,250,2023-04-12 17:30:00,12,1429,110
+Los Angeles-Las Vegas,Delta Air Lines,Los Angeles,USA,DL301,150,2023-04-13 20:45:00,25,435,70
+Sydney-Melbourne,Virgin Australia,Sydney,Australia,VA401,200,2023-04-14 11:10:00,10,880,100
+Paris-Frankfurt,Air France (France),Paris,France,AF501,180,2023-04-15 14:40:00,20,545,80
+Dubai-Bangkok,Thai Airways International,Dubai,UAE,TG701,350,2023-04-16 08:00:00,10,4290,220
+Miami-New York,JetBlue Airways (USA),Miami,USA,B6801,200,2023-04-17 12:35:00,8,1758,130
+Tokyo-Shanghai,All Nippon Airways (Japan),Tokyo,Japan,NH901,280,2023-04-18 16:15:00,12,1868,170
+Dublin-London,Ryanair (Ireland),Dublin,Ireland,FR201,80,2023-04-19 18:50:00,15,464,60
+Cape Town-Johannesburg,South African Airways (South Africa),Cape Town,South Africa,SA401,150,2023-04-20 21:25:00,16,1273,90
+"New York-Chicago""",American Airlines,New York,USA,AA101,$300,2023-04-11 14:20:00,5,1255,150
+"London-Madrid""",Iberia Airlines,London,UK,IB201,£250,2023-04-12 17:30:00,8,1429,110
+"Los Angeles-Las Vegas""",Delta Air Lines,Los Angeles,USA,DL301,"¥15,00",2023-04-13 20:45:00,5,435,70
+"Sydney-Melbourne""",Virgin Australia,Sydney,Australia,VA401,AUD200,2023-04-14 11:10:00,7,880,100
+"Paris-Frankfurt""",Air France,Paris,France,AF501,€180,2023-04-15 14:40:00,2,545,80
+"Miami-New York""",JetBlue Airways,Miami,USA,B6801,$200,2023-04-17 12:35:00,4,1758,130
+"Tokyo-Shanghai""",All Nippon Airways,Tokyo,Japan,NH901,"¥28,00",2023-04-18 16:15:00,6,1868,170
+"Dublin-London""",Ryanair,Dublin,Ireland,FR201,€80,2023-04-19 18:50:00,9,464,60
+"Cape Town-Johannesburg""",South African Airways,Cape Town,South Africa,SA401,"R1,500",2023-04-20 21:25:00,7,1273,90
+"Dubai-Bangkok""",Thai Airways International,Dubai,UAE,TG701,220,2023-04-16 08:00:00,10,4290,NaN
+Seattle-Denver,United Airlines,Seattle,USA,UA101,$250,2023-04-11 08:00:00,10,1022,NaN
+Boston-Chicago,American Airlines,Boston,USA,AA201,$300,2023-04-12 10:30:00,NaN,1296,NaN
+London-Rome,British Airways,London,UK,BA301,£200,2023-04-13 12:15:00,7,890,NaN
+Dubai-Mumbai,Emirates,Dubai,UAE,EK401,500,2023-04-14 14:45:00,NaN,1289,NaN
+Los Angeles-San Francisco,Alaska Airlines,Los Angeles,USA,AS501,$150,2023-04-15 16:30:00,20,383,NaN
+Melbourne-Perth,Qantas,Melbourne,Australia,QF601,AUD300,2023-04-16 18:20:00,5,2164,NaN
+New York-Miami,Delta Air Lines,New York,USA,DL701,$200,2023-04-17 20:10:00,NaN,1050,NaN
+Beijing-Shanghai,Air China,Beijing,China,CA901,¥1,500,NaN,NaN,752
+Paris-Barcelona,Air France,Paris,France,AF201,€250,2023-04-19 23:50:00,14,826,NaN
+Houston-Dallas,Southwest Airlines,Houston,USA,WN401,$120,2023-04-20 01:40:00,NaN,558,NaN
+Toronto-Montreal,WestJet,Toronto,Canada,WS501,CAD200,2023-04-21 03:30:00,11,311,NaN
+Sydney-Brisbane,Virgin Australia,Sydney,Australia,VA701,AUD150,2023-04-22 05:20:00,12,466,NaN
+Amsterdam-Berlin,KLM Royal Dutch Airlines,Amsterdam,Netherlands,KL901,€180,2023-04-23 07:10:00,NaN,578,NaN
+Singapore-Kuala Lumpur,Singapore Airlines,Singapore,Singapore,SQ301,SGD200,2023-04-24 09:00:00,14,330,NaN
+Dublin-Edinburgh,Aer Lingus,Dublin,Ireland,EI501,€120,2023-04-25 10:50:00,NaN,195,NaN
+Vancouver-Calgary,Air Canada,Vancouver,Canada,AC801,$180,2023-04-26 12:40:00,NaN,427,NaN
+Frankfurt-Munich,Lufthansa,Frankfurt,Germany,LH201,€250,2023-04-27 14:30:00,14,305,NaN
+Shanghai-Guangzhou,China Eastern Airlines,Shanghai,China,MU901,¥1,200,NaN,NaN,976
+New York-London,Delta Airlines,New York,USA,DL101,750,2022-05-12 10:30:00,15,3475,253
+London-Dubai,Emirates,London,UK,EK037,965,2022-07-02 20:45:00,10,3445,293
+Singapore-Tokyo,Singapore Airlines,Singapore,Singapore,SQ025,1150,2022-06-23 08:20:00,35,3456,212
+Paris-New York,Air France,Paris,France,AF035,895,2022-08-07 14:10:00,15,3569,312
+New York-Los Angeles,United Airlines,New York,USA,UA042,445,2022-09-14 09:40:00,20,2789,187
+Melbourne-Sydney,Qantas Airways,Melbourne,Australia,QF051,225,2022-10-05 13:15:00,8,743,89
+Tokyo-Hong Kong,Cathay Pacific,Tokyo,Japan,CX022,830,2022-11-11 06:25:00,10,2800,234
+Los Angeles-San Francisco,Southwest Airlines,Los Angeles,USA,WN077,125,2022-12-09 11:20:00,10,338,56
+Dubai-Frankfurt,Lufthansa,Dubai,UAE,LH412,520,2023-01-19 17:30:00,10,3708,278
+Singapore-Bangkok,Thai Airways,Singapore,Singapore,TG034,155,2023-02-08 22:15:00,10,895,92
+Sydney-Auckland,Air New Zealand,Sydney,Australia,NZ109,210,2023-03-21 16:05:00,25,2345,198
+London-Mumbai,Jet Airways,London,UK,9W120,675,2023-04-10 06:55:00,20,4456,322
+New York-Miami,American Airlines,New York,USA,AA021,300,2023-05-19 19:40:00,5,2308,167
+Hong Kong-Beijing,Air China,Hong Kong,China,CA087,415,2023-06-27 14:55:00,40,2300,167
+Frankfurt-Rome,Alitalia,Frankfurt,Germany,AZ042,320,2023-07-08 08:35:00,15,1230,125
+Beijing-Shanghai,China Eastern Airlines,Beijing,China,MU123,240,2023-08-15 12:30:00,20,1200,112
+Mumbai-Bangkok,IndiGo,Mumbai,India,MB122,335,2023-09-26 06:50:00,10,1650,178
+Los Angeles-Las Vegas,Allegiant Air,Los Angeles,USA,G4026,90,2023-10-11 10:25:00,NaN,NaN,NaN
+New York-London,American Airlines,New York,USA,AA101,600,2023-03-01 12:30:00,10,3440,55%
+Los Angeles-Tokyo,Delta Air Lines,Los Angeles,USA,DL102,800,2023-03-02 14:00:00,15,5485,75%
+Sydney-Dubai,Emirates,Sydney,Australia,EK201,1000,2023-03-03 08:45:00,5,7500,80%
+Paris-Toronto,Air France,Paris,France,AF202,700,2023-03-04 16:20:00,20,5660,45%
+Bangkok-Seoul,Thai Airways,Bangkok,Thailand,TG203,400,2023-03-05 09:10:00,30,2880,60%
+London-Mumbai,British Airways,London,UK,BA204,900,2023-03-06 18:00:00,25,4650,50%
+New York-London,American Airlines,New York,USA,AA101,600,2023-03-01 12:30:00,24,3440,70
+Los Angeles-Tokyo,Delta Air Lines,Los Angeles,USA,DL102,800,2023-03-02 14:00:00,28,5485,85
+Sydney-Dubai,Emirates,Sydney,Australia,EK201,1000,2023-03-03 08:45:00,10,7500,65
+Paris-Toronto,Air France,Paris,France,AF202,700,2023-03-04 16:20:00,10,5660,90
+Bangkok-Seoul,Thai Airways,Bangkok,Thailand,TG203,400,2023-03-05 09:10:00,25,2880,75
+London-Mumbai,British Airways,London,UK,BA204,900,2023-03-06 18:00:00,5,4650,80
+New York-Dubai,Emirates,New York,USA,EK205,1200,2023-03-07 10:45:00,27,6625,95
+Singapore-Sydney,Qantas Airways,Singapore,Singapore,QF206,950,2023-03-08 15:30:00,20,3920,70
+Paris-Beijing,Air France,Paris,France,AF207,800,2023-03-09 20:15:00,8,6175,85
+Los Angeles-London,British Airways,Los Angeles,USA,BA208,1100,2023-03-10 22:00:00,5,5450,60
+London-New York,+9American Airlines,London,UK,AA101,500,2023-03-01 08:00:00,20,3450,80
+Paris-Dubai,Emirates!,Paris,France,EK102,700,2023-03-02 10:30:00,15,3630,70
+New York-Los Angeles,Delta@ Air-Lines,New York,USA,DL103,600,2023-03-03 12:45:00,5,2450,90
+Beijing-Tokyo,Japan (Airlines),Tokyo,Japan,JL104,800,2023-03-04 14:00:00,25,1850,70
+Sydney-London,*^Qantas Airways,London,UK,QF105,900,2023-03-05 16:30:00,30,10550,95
+Paris-Singapore,Singapore*& Airlines,Singapore,Singapore,SQ106,1000,2023-03-06 18:00:00,10,6630,80
+Dubai-Mumbai,(Etihad Airways),Dubai,United Arab Emirates,EY107,400,2023-03-07 20:15:00,35,1200,50
+Tokyo-Beijing,China Airlines*!,Beijing,China,CI108,1100,2023-03-08 22:45:00,50,1900,85
+Los Angeles-Sydney,Qantas Airways+,Sydney,Australia,QF109,1200,2023-03-09 08:30:00,40,12050,100
+London-Paris,Air Franc&$e,London,UK,AF110,650,2023-03-10 10:15:00,5,2860,75
+Tokyo-Paris,Japan Airlines,Tokyo,Japan,JL001,1200,2023-03-01 08:00:00,0,9610,120
+Doha-New York,Qatar Airways,Doha,Qatar,QR002,1800,2023-03-02 10:30:00,20,11080,200
+Dubai-Los Angeles,Emirates,Dubai,United Arab Emirates,EK003,1500,2023-03-03 12:45:00,20,13800,170
+Zurich-Bangkok,Swiss International Air Lines,Zurich,Switzerland,LX004,1000,2023-03-04 14:00:00,15,9240,110
+Osaka-London,Japan Airlines,Osaka,Japan,JL005,1400,2023-03-05 16:30:00,5,9750,150
+Sydney-Doha,Qatar Airways,Sydney,Australia,QR006,2000,2023-03-06 18:00:00,30,14200,180
+Dubai-Tokyo,Emirates,Dubai,United Arab Emirates,EK007,1700,2023-03-07 20:15:00,10,10700,160
+Geneva-Hong Kong,Swiss International Air Lines,Geneva,Switzerland,LX008,1100,2023-03-08 22:45:00,8,9800,120
+Frankfurt-Tokyo,Japan Airlines,Frankfurt,Germany,JL009,1300,2023-03-09 08:30:00,15,9260,140
+Doha-Sydney,Qatar Airways,Doha,Qatar,QR010,1900,2023-03-10 10:15:00,0,12090,190
+Los Angeles-Dubai,Emirates,Los Angeles,USA,EK011,1600,2023-03-11 12:30:00,9,13800,160
+London-Zurich,Swiss International Air Lines,London,UK,LX012,800,2023-03-12 14:45:00,10,7200,80
+Tokyo-Bangkok,Japan Airlines,Tokyo,Japan,JL013,1100,2023-03-13 16:15:00,5,4650,90
+Sydney-London,Qantas Airways,Sydney,Australia,QF014,2200,2023-03-14 18:45:00,15,17100,220
+New York-Doha,Qatar Airways,New York,USA,QR015,1700,2023-03-15 20:30:00,0,10850,150
+Dubai-Bangkok,Emirates,Dubai,United Arab Emirates,EK016,1200,2023-03-16 22:00:00,0,3450,100
+Zurich-New York,Swiss International Air Lines,Zurich,Switzerland,LX017,1500,2023-03-17 08:15:00,10,10420,130
+Osaka-Bangkok,Japan Airlines,Osaka,Japan,JL018,900,2023-03-18 10:10:00,NaN,NaN,NaN
+Reykjavik to Akureyri,Reykjavik,Iceland,Icelandair,FI440,165,2023-03-19 10:30:00,8,251,87
+Reykjavik to Akureyri,Reykjavik,Iceland,WOW air,WW560,140,2023-03-20 11:10:00,15,251,78
+Reykjavik to Egilsstadir,Reykjavik,Iceland,Icelandair,FI214,225,2023-03-21 12:10:00,5,350,93
+Nuuk to Kangerlussuaq,Nuuk,Greenland,Air Greenland,GL150,450,2023-03-22 12:00:00,30,285,75
+Ilulissat to Kangerlussuaq,Ilulissat,Greenland,Air Greenland,GL342,315,2023-03-23 15:10:00,0,225,63
+Ilulissat to Kangerlussuaq,Ilulissat,Greenland,Air Greenland,GL522,290,2023-03-24 20:10:00,8,225,71
+Honiara to Nadi,Honiara,Solomon Islands,Fiji Airways,FJ414,630,2023-03-25 09:10:00,4,1964,102
+Honiara to Port Vila,Honiara,Solomon Islands,Air Vanuatu,NF778,520,2023-03-26 09:30:00,2,1004,85
+Honiara to Nadi,Honiara,Solomon Islands,Fiji Airways,FJ604,650,2023-03-27 10:10:00,4,1964,95
+Dublin to Paris,Dublin,Ireland,Aer Lingus,EI562,220,2023-03-28 10:40:00,10,787,110
+Dublin to London,Dublin,Ireland,British Airways,BA168,130,2023-03-29 08:30:00,10,449,75
+Dubai-London,Emirates,London,United Kingdom,EK-008,£700,2023-03-30 06:30:00,10,5574,245
+New York-Tokyo,Japan Airlines,Tokyo,Japan,JL-001,$1200,2023-03-31 05:50:00,15,10880,345
+Doha-Melbourne,Qatar Airways,Melbourne,Australia,QR-014,AU$925,2023-04-01 17:10:00,20,11204,276
+Los Angeles-Paris,Air France,Paris,France,AF-009,€980,2023-04-02 20:10:00,20,9074,225
+Hong Kong-Vancouver,Cathay Pacific,Vancouver,Canada,CX-006,CA$1025,2023-04-03 20:30:00,4,6237,198
+Zurich-New York,Swiss International Air Lines,New York,USA,LX-003,$1400,2023-04-04 08:30:00,30,6473,178
+Singapore-Sydney,Singapore Airlines,Sydney,Australia,SQ-011,AU$895,2023-04-05 18:30:00,0,3905,234
+Abu Dhabi-Mumbai,Etihad Airways,Mumbai,India,EY-202,₹12,560,NaN,1205,150
+Amsterdam-Los Angeles,KLM,Rotterdam,Netherlands,KL-102,"€1,200",2023-04-08 13:55:00,20,8944,210
+Bangkok-Dubai,Thai Airways International,Dubai,United Arab Emirates,TG-022,AED 2125,2023-04-09 18:50:00,15,3736,267
+Singapore-Bangkok,Singapore Airlines,Singapore,Singapore,SQ970,480,2023-03-01 08:15:00,20,1400,180
+Hong Kong-Tokyo,Japan Airlines,Hong Kong,China,JL123,620,2023-03-02 12:30:00,10,2600,200
+Seoul-Shanghai,Korean Air,Seoul,South Korea,KE882,580,2023-03-03 15:45:00,4,1000,150
+Kuala Lumpur-Jakarta,Malaysia Airlines,Kuala Lumpur,Malaysia,MH702,380,2023-03-04 10:00:00,10,600,100
+Taipei-Manila,EVA Air,Taipei,Taiwan,BR277,410,2023-03-05 14:20:00,0,1300,180
+Osaka-Bangkok,Thai Airways,Osaka,Japan,TG634,520,2023-03-06 19:40:00,5,2500,220
+Beijing-Hong Kong,Air China,Beijing,China,CA110,670,2023-03-07 08:00:00,10,2000,150
+Kathmandu-Delhi,IndiGo,Kathmandu,Nepal,6E419,240,2023-03-08 06:30:00,15,400,90
+Shanghai-Taipei,China Eastern Airlines,Shanghai,China,MU216,480,2023-03-09 11:15:00,0,1400,150
+Jakarta-Singapore,Garuda Indonesia,Jakarta,Indonesia,GA823,290,2023-03-10 13:50:00,30,900,100
+Iceland to Thailand,Qatar Airways,Bangkok,Thailand,QR952,NaN,2023-02-28 11:20:00,45,9000,35
+Greenland to Maldives,Emirates,Male,Maldives,EK658,NaN,2023-03-01 07:45:00,10,9800,28
+Solomon Islands to Ireland,Cathay Pacific,Dublin,Ireland,CX111,NaN,2023-03-02 14:35:00,18,13500,45
+Madagascar to Jamaica,Singapore Airlines,Kingston,Jamaica,SQ871,NaN,2023-03-03 20:00:00,5,12000,22
+Ireland to Greece,Japan Airlines,Athens,Greece,JL719,NaN,2023-03-04 09:10:00,5,2400,NaN
+Jamaica to Iceland,Thai Airways,Reykjavik,Iceland,TG201,NaN,2023-03-05 13:30:00,NaN,5000,NaN
+Greece to Greenland,Korean Air,Nuuk,Greenland,KE347,NaN,2023-03-06 06:15:00,20,10500,33
+Mauritius to Thailand,Hainan Airlines,Bangkok,Thailand,HU923,NaN,2023-03-07 16:25:00,12,9000,NaN
+Maldives to Madagascar,Philippine Airlines,Antananarivo,Madagascar,PR487,NaN,2023-03-08 08:40:00,NaN,7500,27
+Thailand to Solomon Islands,Asiana Airlines,Honiara,Solomon Islands,OZ120,NaN,2023-03-09 19:55:00,0,8500,42
+New York to London,Virgin Atlantic Airways,London,United Kingdom,VS102,290,2023-03-10 10:30:00,28,3454,NaN
+Paris to Madrid,Iberia,Madrid,Spain,IB543,210,2023-03-11 14:45:00,NaN,1058,NaN
+Dubai to Tokyo,Emirates,Tokyo,Japan,EK910,750,2023-03-13 08:15:00,18,6203,NaN
+Hong Kong to Singapore,Singapore Airlines,Singapore,Singapore,SQ863,420,2023-03-14 19:20:00,NaN,1607,NaN
+Sydney to Melbourne,Qantas Airways,Melbourne,Australia,QF475,90,2023-03-15 06:00:00,32,714,NaN
+Bangkok to Beijing,Air China,Beijing,China,CA778,360,2023-03-16 11:10:00,15,2932,NaN
+Amsterdam to Stockholm,KLM,Rome,Italy,KL137,180,2023-03-17 09:50:00,NaN,1213,NaN
+Los Angeles to Seoul,Korean Air,Seoul,South Korea,KE258,650,2023-03-19 16:35:00,20,5884,NaN
+Rio de Janeiro to Buenos Aires,Aerolineas Argentinas,Buenos Aires,Argentina,AR274,340,2023-03-20 13:25:00,22,2041,NaN
+Cape Town to Johannesburg,South African Airways,Johannesburg,South Africa,SA912,110,2023-03-21 08:40:00,0,789,NaN
+Copenhagen to Paris,Air France,Paris,France,AF226,NaN,2023-03-04 15:30:00,30,840,20
+New York to London,Delta Air Lines,London,United Kingdom,DL43,NaN,2023-03-05 09:45:00,NaN,5560,NaN
+Los Angeles to Beijing,Air China,Beijing,China,CA988,NaN,2023-03-06 12:10:00,15,6200,16
+Tokyo to Seoul,Asiana Airlines,Seoul,South Korea,OZ111,NaN,2023-03-07 10:20:00,18,740,NaN
+Dubai to New York,Emirates,New York,United States,EK206,NaN,2023-03-08 13:50:00,NaN,6840,NaN
+Bangkok to Singapore,Singapore Airlines,Singapore,Singapore,SQ978,NaN,2023-03-09 07:25:00,12,900,NaN
+Berlin to Barcelona,Vueling Airlines,Barcelona,Spain,VY874,NaN,2023-03-10 16:00:00,10,1315,12
+Rio de Janeiro to Lisbon,TAP Air Portugal,Lisbon,Portugal,TP78,NaN,2023-03-11 14:15:00,NaN,7160,NaN
+Sydney to Melbourne,Qantas,Melbourne,Australia,QF465,NaN,2023-03-12 08:35:00,25,880,19
+Toronto to Mumbai,Air Canada,Mumbai,India,AC46,NaN,2023-03-13 20:00:00,NaN,11630,NaN
+Munich to Istanbul,Turkish Airlines,Istanbul,Turkey,TK1632,NaN,2023-03-14 11:30:00,20,1255,NaN
+Chicago to Amsterdam,KLM,Amsterdam,Netherlands,KL612,NaN,2023-03-15 19:20:00,11,6300,NaN
+Singapore to Hong Kong,Cathay Pacific,Hong Kong,Hong Kong,CX759,NaN,2023-03-16 12:50:00,NaN,1600,NaN
+London to Madrid,British Airways,Madrid,Spain,BA462,NaN,2023-03-17 09:00:00,20,1260,10
+Los Angeles to Sydney,United Airlines,Sydney,Australia,UA840,NaN,2023-03-18 17:30:00,NaN,7480,NaN
+Oslo to Moscow,Aeroflot,Moscow,Russia,SU330,NaN,2023-03-19 14:45:00,20,1525,NaN
+Seoul to Manila,Philippine Airlines,Manila,Philippines,PR416,NaN,2023-03-20 10:10:00,NaN,1530,NaN
+Paris to New York,Air France,New York,United States,AF008,NaN,2023-03-21 20:35:00,20,5840,NaN
+Dublin to Rome,Aer Lingus,Rome,Italy,EI432,NaN,2023-03-22 16:55:00,18,1525,NaN
+Rome-Milan,Alitalia,Rome,Italy,AL114,100,2023-05-25 16:00:00,30,550,55
+Bangkok-Chiang Mai,Thai Airways,Bangkok,Thailand,TG024,130,2023-05-30 21:30:00,15,490,67
+Dubai-Abu Dhabi,Emirates,Dubai,UAE,EK321,100,2023-05-19 12:00:00,20,150,70
+Tehran-Mashhad,Iran Air,Tehran,Iran,IR045,80,2023-05-15 13:30:00,25,650,80
+Riyadh-Jeddah,Saudia,Riyadh,Saudi Arabia,SV011,110,2023-05-11 10:45:00,30,700,90
+Cairo-Alexandria,Egypt Air,Cairo,Egypt,MS123,100,2023-05-14 09:00:00,15,250,50
+Amman-Beirut,Royal Jordanian,Amman,Jordan,RJ321,100,2023-05-18 17:00:00,10,400,60
+Kuala Lumpur-Langkawi,Malaysia Airlines,Kuala Lumpur,Malaysia,MH545,80,2023-05-17 11:30:00,15,350,45
+Dhaka-Chittagong,Biman Bangladesh,Dhaka,Bangladesh,BG013,90,2023-05-21 12:45:00,25,650,50
+Jakarta-Bali,Garuda Indonesia,Jakarta,Indonesia,GA045,100,2023-05-22 15:00:00,20,400,65
+Kabul-Kandahar,Ariana Afghan Airlines,Kabul,Afghanistan,AF123,100,2023-05-19 07:30:00,10,500,70
+Kuala Lumpur-Penang,AirAsia,Kuala Lumpur,Malaysia,AK789,60,2023-05-20 09:00:00,15,250,55
+Beijing-Shanghai,Air Chinam,Beijing,China,CA123,100,2023-05-17 13:30:00,10,1350,75
+Manila-Cebu,Philippine Airlines,Manila,Philippines,PR045,90,2023-05-19 09:00:00,15,450,60
+Bangkok-Phuket,Thai Airways,Bangkok,Thailand,TG032,100,2023-05-21 17:00:00,20,850,70
+New Delhi-Mumbai,Air India,New Delhi,India,AI123,110,2023-05-22 12:00:00,30,1350,80
+Ho Chi Minh City-Hanoi,Vietnam Airlines,Ho Chi Minh City,Vietnam,VN321,100,2023-05-25 10:45:00,10,1100,55
+Istanbul-Ankara,Turkish Airlines,Istanbul,Turkey,TK011,100,2023-05-17 09:00:00,15,400,70
+Algiers-Casablanca,Air Algérie,Algiers,Algeria,AA023,110,2023-05-19 15:00:00,20,1200,80
+Tunis-Tripoli,Tunisair,Tunis,Tunisia,TS032,100,2023-05-22 12:45:00,30,800,90
+Rabat-Marrakesh,Royal Air Maroc,Rabat,Morocco,RM123,100,2023-05-25 18:00:00,10,450,60
+Doha-Dubai,Qatar Airways,Doha,Qatar,QR321,110,2023-05-30 18:45:00,15,1500,70
+London-Sydney,British Airways,London,UK,BA345,$1300,2023-01-06 12:45:00,0,15700,200
+Frankfurt-Melbourne,Lufthansa,Frankfurt,Germany,LH456,$1400,2023-01-07 12:45:00,15,10500,250
+Amsterdam-Brisbane,KLM Royal Dutch Airlines,Amsterdam,Netherlands,KL789,$1500,2023-01-08 12:45:00,10,13200,300
+Paris-Adelaide,Air France,Paris,France,AF101,$1600,2023-01-09 12:45:00,0,10700,400
+Rome-Perth,Alitalia,Rome,Italy,AZ102,$1200,2023-01-10 12:45:00,10,14500,500
+Dublin-Cairns,Aer Lingus,Dublin,Ireland,AL304,$1000,2023-01-11 12:45:00,15,14000,550
+Madrid-Hobart,Iberia Airlines,Madrid,Spain,IB405,$900,2023-01-12 12:45:00,20,12000,600
+Zurich-Alice Springs,Swiss Air,Zurich,Switzerland,SA506,$950,2023-01-13 12:45:00,10,11600,650
+Istanbul-Gold Coast,Turkish Airlines,Istanbul,Turkey,TK607,$1450,2023-01-14 12:45:00,0,12500,700
+Vienna-Townsville,Austrian Airlines,Vienna,Austria,AU708,$1300,2023-01-15 12:45:00,25,11000,750
+Auckland-Doha,Air New Zealand,Auckland,New Zealand,NZ809,$1800,2023-01-16 12:45:00,0,13800,200
+Dubai-Los Angeles,Emirates,Dubai,United Arab Emirates,EK910,$1900,2023-01-17 12:45:00,,17500,250
+Doha-Santiago,Qatar Airways,Doha,Qatar,QR811,$2000,2023-01-18 12:45:00,10,17400,300
+Singapore-Johannesburg,Singapore Airlines,Singapore,Singapore,SQ712,$2100,2023-01-19 12:45:00,0,14700,400
+Abu Dhabi-Toronto,Etihad Airways,Abu Dhabi,UAE,EY613,$1500,2023-01-20 12:45:00,,15600,500
+Papeete-Easter Island,Air Tahiti Nui,Papeete,French Polynesia,TN814,$1600,2023-01-21 12:45:00,0,5800,200
+Mahe-Tahiti,Air Seychelles,Mahe,Seychelles,AS915,$1700,2023-01-22 12:45:00,15,5100,250
+Port Louis-Reunion,Air Mauritius,Port Louis,Mauritius,:00016,$1800,2023-01-23 12:45:00,10,1600,300
+Kingston-Bermuda,Air Jamaica,Kingston,Jamaica,AJ117,$1900,2023-01-24 12:45:00,,2400,400
+Port Vila-Fiji,Air Vanuatu,Port Vila,Vanuatu,AV218,$1500,2023-01-25 12:45:00,10,2800,500
+Rome-Paris,Alitalia,Rome,Italy,AZ102,$1200,2023-01-26 12:45:00,0,1000,200
+London-Prague,British Airways,London,UK,BA345,$1300,2023-01-27 12:45:00,15,1400,250
+Munich-Vienna,Lufthansa,Munich,Germany,LH456,$1400,2023-01-28 12:45:00,10,600,300
+Paris-Amsterdam,Air France,Paris,France,AF101,$1500,2023-01-29 12:45:00,10,500,400
+Amsterdam-Reykjavik,KLM Royal Dutch Airlines,Amsterdam,Netherlands,KL789,$1600,2023-01-30 12:45:00,10,2000,500
+Delhi-Kuala Lumpur,Air India,Delhi,India,AI123,$1000,2023-01-31 12:45:00,11,2700,200
+Kuala Lumpur-Bangkok,Malaysia Airlines,Kuala Lumpur,Malaysia,MH456,$1100,2023-02-01 12:45:00,15,1000,250
+Bangkok-Ho Chi Minh City,Thai Airways,Bangkok,Thailand,TG789,$1200,2023-02-02 12:45:00,10,900,300
+Guangzhou-Manila,China Southern Airlines,Guangzhou,China,CZ101,$1300,2023-02-03 12:45:00,0,1800,400
+Manila-Singapore,Philippine Airlines,Manila,Philippines,PR102,$1400,2023-02-04 12:45:00,10,1400,500
+Dubai-New York,Emirates,Dubai,United Arab Emirates,EK910,$1900,2023-02-05 12:45:00,0,13500,200
+Doha-Sao Paulo,Qatar Airways,Doha,Qatar,QR811,$2000,2023-02-06 12:45:00,15,12400,250
+Singapore-Newark,Singapore Airlines,Singapore,Singapore,SQ712,$2100,2023-02-07 12:45:00,10,13300,300
+Abu Dhabi-Toronto,Etihad Airways,Abu Dhabi,UAE,EY613,$1500,2023-02-08 12:45:00,20,15600,400
+Hong Kong-San Francisco,Cathay Pacific,Hong Kong,Hong Kong,CP614,$1600,2023-02-09 12:45:00,10,11000,500
+New York-Toronto,Air Canada,New York,USA,AC012,130,2023-05-14 10:00:00,15,900,NaN
+Miami-Cancun,American Airlines,Miami,USA,AA045,100,2023-05-18 13:30:00,20,1200,90
+Sao Paulo-Rio de Janeiro,Azul Brazilian Airlines,Sao Paulo,Brazil,AB123,95,2023-05-20 16:00:00,25,700,NaN
+Mexico City-Guatemala City,Aeroméxico,Mexico City,Mexico,AM321,100,2023-05-22 19:00:00,10,900,60
+Lima-Bogota,Avianca,Lima,Peru,AV123,110,2023-05-25 21:30:00,15,1200,75
+Santiago-Melbourne,Qantas,Santiago,Chile,QF023,500,2023-05-15 11:00:00,20,15000,100
+Buenos Aires-Sydney,Aerolineas Argentinas,Buenos Aires,Argentina,AR012,400,2023-05-19 14:00:00,30,14000,80
+Brasilia-Brisbane,Gol,Brasilia,Brazil,GOL321,400,2023-05-22 15:30:00,15,13000,90
+Lima-Adelaide,Latam Airlines,Lima,Peru,LA123,400,2023-05-25 18:00:00,10,14000,70
+Quito-Perth,TAME,Quito,Ecuador,TAME321,450,2023-05-30 20:45:00,25,15000,75
+Cairo-Istanbul,EgyptAir,Cairo,Egypt,MS012,130,2023-05-17 10:00:00,20,1800,90
+Addis Ababa-Riyadh,Ethiopian Airlines,Addis Ababa,Ethiopia,ET045,100,2023-05-19 13:30:00,15,3000,80
+Johannesburg-Dubai,South African Airways,Johannesburg,South Africa,SA123,150,2023-05-22 16:00:00,30,4000,110
+Khartoum-Tehran,Sudan Airways,Khartoum,Sudan,SD321,100,2023-05-25 18:45:00,10,3400,60
+Nairobi-Mumbai,Kenya Airways,Nairobi,Kenya,KQ789,160,2023-05-30 21:30:00,25,3700,75
+Lagos-London,British Airways,Lagos,Nigeria,BA012,200,2023-05-14 11:00:00,15,5000,90
+Kampala-Rome,Uganda Airlines,Kampala,Uganda,UG045,180,2023-05-18 13:30:00,20,4500,80
+Kinshasa-Paris,Air Congo,Kinshasa,Democratic Republic of the Congo,AC123,150,2023-05-22 16:00:00,30,5500,70
+Johannesburg-Madrid,Iberia,Johannesburg,South Africa,IB321,200,2023-05-25 18:45:00,10,4000,60
+Tunis-Berlin,Tunisair,Tunis,Tunisia,TS789,180,2023-05-30 21:30:00,25,4500,75
+Dhaka-Chittagong,Biman Bangladesh,Dhaka,Bangladesh,BG013,90,2023-05-21 12:45:00,25,650,50
+Cox's Bazar-Rajshahi,US-Bangla Airlines,Cox's Bazar,Bangladesh,UB345,100,2023-05-19 11:00:00,10,500,60
+Sylhet-Dhaka,Novoair,Sylhet,Bangladesh,NV123,80,2023-05-14 18:00:00,15,350,70
+Rangpur-Kushtia,Regent Airways,Rangpur,Bangladesh,RG321,100,2023-05-22 09:45:00,20,450,80
+Barisal-Khulna,Novoaero,Barisal,Bangladesh,NA789,90,2023-05-25 13:30:00,25,400,55
+Singapore-Melbourne,Qantas,Singapore,Singapore,QF023,500,2023-05-15 11:00:00,20,10500,100
+Kuala Lumpur-Sydney,Malaysia Airlines,Kuala Lumpur,Malaysia,MH012,400,2023-05-19 14:00:00,30,9500,114
+Bangkok-Brisbane,Thai Airways,Bangkok,Thailand,TG321,400,2023-05-22 15:30:00,15,9000,90
+Seoul-Adelaide,Korean Air,Seoul,South Korea,KE123,400,2023-05-25 18:00:00,8,10000,70
+Tokyo-Perth,Japan Airlines,Tokyo,Japan,JL789,450,2023-05-30 20:45:00,25,11000,75
+Tirana-Skopje,Air Albania,Tirana,Albania,AA012,100,2023-05-14 11:00:00,15,300,60
+Chisinau-Yerevan,Air Moldova,Chisinau,Moldova,AM045,90,2023-05-18 13:30:00,20,450,50
+Tbilisi-Baku,Azerbaijan Airlines,Tbilisi,Georgia,AZ123,100,2023-05-22 16:00:00,30,500,70
+Podgorica-Sarajevo,Montenegro Airlines,Podgorica,Montenegro,ME321,100,2023-05-25 18:45:00,9,350,40
+Kiev-Minsk,Ukraine International Airlines,Kiev,Ukraine,UI789,110,2023-05-30 21:30:00,25,400,60
+Auckland-London,Air New Zealand,Auckland,New Zealand,NZ012,500,2023-05-15 11:00:00,20,16000,100
+Sydney-Paris,Qantas,Sydney,Australia,QF045,400,2023-05-19 14:00:00,30,15000,80
+Port Moresby-Rome,Air Niugini,Port Moresby,Papua New Guinea,AN123,400,2023-05-22 15:30:00,15,14000,90
+Nuku'alofa-Madrid,Real Tonga,Nuku'alofa,Tonga,RT321,400,2023-05-25 18:00:00,10,14500,70
+Suva-Berlin,Fiji Airways,Suva,Fiji,FJ789,450,2023-05-30 20:45:00,25,15000,75
+St. Maarten-St. Kitts,Winair,St. Maarten,Netherlands Antilles,WN012,120,2023-05-14 11:00:00,15,500,60
+San Juan-St. Thomas,Cape Air,San Juan,Puerto Rico,CA045,90,2023-05-18 13:30:00,20,450,50
+Nassau-Grand Bahama,Bahamasair,Nassau,Bahamas,BA123,100,2023-05-22 16:00:00,30,350,70
+Kingston-Montego Bay,Jamaica Air Shuttle,Kingston,Jamaica,JS321,110,2023-05-25 18:45:00,18,400,40
+St. Lucia-Barbados,LIAT,St. Lucia,St. Lucia,LL789,110,2023-05-30 21:30:00,25,450,60
+Munich-Barcelona,Lufthansa,Munich,Germany,LH012,100,2023-05-14 11:00:00,15,1000,80
+London-Nice,British Airways,London,United Kingdom,BA045,90,2023-05-18 13:30:00,20,1200,90
+Rome-Paris,Alitalia,Rome,Italy,AL123,120,2023-05-22 16:00:00,30,900,70
+Athens-Istanbul,Aegean Airlines,Athens,Greece,AEG321,110,2023-05-25 18:45:00,12,850,60
+Amsterdam-Prague,KLM,Amsterdam,Netherlands,KL789,110,2023-06-01 21:30:00,25,1100,75
+Moscow-Kazan,Aeroflot,Moscow,Russia,AF123,$150,2023-05-31 11:30:00,8,800,100
+St. Petersburg-Novosibirsk,S7 Airlines,St. Petersburg,Russia,S7456,$200,2023-06-02 20:30:00,30,2500,150
+Moscow-Ufa,Ural Airlines,Moscow,Russia,UA789,$100,2023-06-03 22:30:00,45,1200,200
+Moscow-Sochi,Red Wings,Moscow,Russia,RW123,$150,2023-06-04 21:30:00,5,1000,100
+St. Petersburg-Rostov,Pobeda Airlines,St. Petersburg,Russia,PB456,$175,2023-06-05 14:30:00,15,1400,150
+Moscow-Vladivostok,Vladivostok Air,Moscow,Russia,VA789,$300,2023-06-06 14:30:00,30,5000,200
+Kazan-Yekaterinburg,Ural Airlines,Kazan,Russia,UA890,$200,2023-06-07 14:30:00,45,1700,100
+Sochi-Tyumen,Siberia Airlines,Sochi,Russia,SB321,$150,2023-06-08 14:30:00,0,2200,150
+Moscow-New York,Aeroflot,Moscow,Russia,AF123,$1200,2023-06-09 14:30:00,11,8700,250
+London-Tokyo,British Airways,London,UK,BA345,$2500,2023-06-10 14:30:00,20,13000,200
+New York-Los Angeles,United Airlines,New York,USA,UA987,$400,2023-06-11 14:30:00,15,3000,100
+Singapore-Sydney,Singapore Airlines,Singapore,Singapore,SQ456,$450,2023-06-12 14:30:00,0,7500,150
+Paris-Rio de Janeiro,Air France,Paris,France,AF789,$500,2023-06-13 14:30:00,30,9500,200
+Moscow-Beijing,China Southern,Moscow,Russia,CS123,$300,2023-06-14 14:30:00,45,5000,100
+New York-London,Virgin Atlantic,New York,USA,VA321,$700,2023-06-15 14:30:00,0,6000,150
+Tokyo-Osaka,Japan Airlines,Tokyo,Japan,JL098,$150,2023-06-16 14:30:00,0,500,100
+Singapore-Kuala Lumpur,Singapore Airlines,Singapore,Singapore,SQ456,$100,2023-06-17 14:30:00,15,700,150
+Athens-Thessaloniki,Aegean Airlines,Athens,Greece,AG789,$250,2023-06-18 14:30:00,6,500,200
+Tokyo-Seoul,All Nippon Airways,Tokyo,Japan,AN123,$300,2023-06-19 14:30:00,45,1000,100
+Singapore-Bangkok,Thai Airways,Singapore,Singapore,TH321,$200,2023-06-20 14:30:00,0,700,150
+Geneva-Zurich,Swiss International Air Lines,Geneva,Switzerland,SW098,$150,2020-06-21 14:30:00,0,300,100
+Toronto-Vancouver,Air Canada,Toronto,Canada,AC456,$250,2020-06-22 14:30:00,15,NaN,150
+Lisbon-Porto,TAP Portugal,Lisbon,Portugal,TP789,$100,2020-06-23 14:30:00,0,500,200
+Geneva-Frankfurt,Lufthansa,Geneva,Switzerland,LH123,$400,2020-06-24 14:30:00,45,1500,100
+Vancouver-Edmonton,WestJet,Vancouver,Canada,WJ321,$150,2020-06-25 14:30:00,0,2000,150
+Reykjavik-Keflavik,Icelandair,Reykjavik,Iceland,IC098,$200,2020-06-26 14:30:00,0,100,100
+Dublin-Belfast,Aer Lingus,Dublin,Ireland,AL456,$175,2020-06-27 14:30:00,15,300,150
+Warsaw-Krakow,LOT Polish Airlines,Warsaw,Poland,LP789,$150,2020-06-28 14:30:00,0,400,200
+Reykjavik-Akureyri,Eagle Air,Reykjavik,Iceland,EA123,$250,2020-06-29 14:30:00,45,700,100
+Dublin-Shannon,Ryanair,Dublin,Ireland,RR321,$100,2020-06-30 14:30:00,0,NaN,200
+Prague-Brno,Czech Airlines,Prague,Czech Republic,CZ098,$150,2020-07-01 14:30:00,0,200,100
+Helsinki-Oulu,Finnair,Helsinki,Finland,FN456,$200,2020-07-02 14:30:00,15,500,150
+Luxembourg-Brussels,Luxair,Luxembourg,Luxembourg,LX789,$175,2020-07-03 14:30:00,20,300,200
+Prague-Vienna,Smartwings,Prague,Czech Republic,SW123,$250,2020-07-04 14:30:00,45,600,100
+Helsinki-Kotka,Blue1,Helsinki,Finland,B1 321,$100,2020-07-05 14:30:00,0,400,150
+Beijing-Shanghai,Air China,Beijing,China,AC098,$150,2020-07-06 14:30:00,20,800,100
+Hong Kong-Macau,Cathay Pacific,Hong Kong,China,CP456,$200,2020-07-07 14:30:00,15,100,150
+Shanghai-Nanjing,China Eastern Airlines,Shanghai,China,CE789,$175,2020-07-08 14:30:00,14,500,200
+Beijing-Chengdu,China Southern Airlines,Beijing,China,CS123,$250,2020-07-09 14:30:00,45,1300,100
+Hong Kong-Taipei,Hong Kong Airlines,Hong Kong,China,HK321,$100,2020-07-10 14:30:00,0,1000,150
+Bangkok-Phuket,Thai Airways,Bangkok,Thailand,TG456,$200,2020-07-11 14:30:00,15,500,150
+Seoul-Busan,Korean Air,Seoul,South Korea,KR789,$175,2020-07-12 14:30:00,0,400,200
+Bogotá-Medellín,Avianca,Bogotá,Colombia,AV001,$50,2020-07-13 14:30:00,30,150,200
+Cali-Bogotá,Viva Air Colombia,Cali,Colombia,VV019,$70,2020-07-14 14:30:00,15,200,150
+Medellín-Cartagena,Latam Airlines,Medellín,Colombia,LA023,$80,2020-07-15 14:30:00,20,300,100
